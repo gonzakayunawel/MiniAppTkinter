@@ -13,3 +13,5 @@ What it does is that it creates a window with buttons that when pressed it execu
 Each action is programmed using the PyAutogui module which allows to open different applications directly in a Microsoft Windows environment.
 
 Greetings
+
+![img](https://i.imgur.com/ygHPcOF.png)
